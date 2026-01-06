@@ -1,1 +1,0 @@
-# goldiecoin1.github.io
