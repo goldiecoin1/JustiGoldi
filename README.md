@@ -116,28 +116,6 @@ I'm open to discussions about:
 
 ---
 
-## 🗺️ What's Next?
-
-### Current Focus (Q1 2026)
-- 🔄 CoinGecko & CoinMarketCap listings (applications submitted)
-- 🔄 Launch trading on Base Network
-- 🔄 Activate Diamond Paws staking program
-- 🔄 Expand to more price tracking platforms
-
-### Coming Soon (Q2-Q3 2026)
-- ⏳ Deploy to Ethereum, Arbitrum, Polygon
-- ⏳ Mobile app for easy staking and rewards
-- ⏳ Tier-2 exchange listings
-- ⏳ Enhanced community features
-
-### Long-Term Vision (Q4 2026+)
-- 🎯 Major exchange listings
-- 🎯 Full decentralization (contract ownership renouncement)
-- 🎯 DAO governance for community decisions
-- 🎯 Cross-chain DeFi integrations
-
----
-
 ## 🤝 Why I Built This
 
 I've seen too many rug pulls and scams in the crypto space. People lose money to projects that promise the moon but deliver nothing. I wanted to create something different:
