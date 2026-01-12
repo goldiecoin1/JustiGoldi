@@ -61,18 +61,6 @@ Diamond Paws Staking
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Justi's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldiecoin1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goldiecoin1&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 My Vision
 
 ### Building Trust in Crypto
